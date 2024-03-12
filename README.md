@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @UserQ1ng
+- 👀 I’m interested in C language
+- 🌱 I’m currently learning C language
